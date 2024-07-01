@@ -68,11 +68,3 @@ The application is built using Python and Tkinter for the GUI and connects to a 
    ```bash
    python connection.py
    ```
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-This README provides a comprehensive overview of the MedEase application, including the database configuration and instructions for setting up and running the application.
